@@ -1,0 +1,4 @@
+name: MMtolegacy
+version: '1.0'
+main: eu.sengy.mmtolegacy.MMtolegacy
+depend: [PlaceholderAPI]
