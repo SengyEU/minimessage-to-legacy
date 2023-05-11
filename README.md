@@ -23,6 +23,6 @@
 ```
 
 ## Screenshots
-![image](https://i.imgur.com/L2vU0hN.png)<br/>
-![image](https://i.imgur.com/PxaS1YQ.png)<br/>
-![image](https://i.imgur.com/kvNOrMx.png)<br/>
+![image](https://i.imgur.com/L2vU0hN.png)
+![image](https://i.imgur.com/PxaS1YQ.png)
+![image](https://i.imgur.com/kvNOrMx.png)
