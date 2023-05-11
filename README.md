@@ -2,7 +2,7 @@
   <h3 align="center">MMtolegacy</h3>
 
   <p align="center">
-    PAPI extension to convert minimessage to legacy formatting
+    PAPI expansion to convert minimessage to legacy formatting
     <br/>
     <br/>
   </p>
