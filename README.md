@@ -10,7 +10,7 @@
 
 ## Instalation
 
-1. Download latest version from [here](github.com/SengyEU/minimessage-to-legacy/releases/latest)
+1. Download latest version from [here](https://github.com/SengyEU/minimessage-to-legacy/releases/latest)
 
 2. Place it in PlaceholderAPI/expansions folder on your server
 
