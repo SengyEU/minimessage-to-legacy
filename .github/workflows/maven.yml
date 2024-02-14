@@ -27,3 +27,12 @@ jobs:
         cache: maven
     - name: Build with Maven
       run: mvn -B package --file pom.xml
+    - uses: "softprops/action-gh-release@v1"
+      with:
+          generate_release_notes: true
+          tag_name: "gd-oldpvp"
+          prerelease: false
+          name: "GD-OldPvp Build"
+          files: |
+            .target/MMtolegacy.jar
+   
