@@ -35,5 +35,5 @@ jobs:
           prerelease: false
           name: "MMtolegacy Build"
           files: |
-            .target/MMtolegacy.jar
+            /home/runner/work/minimessage-to-legacy/minimessage-to-legacy/target/MMtolegacy.jar
    
