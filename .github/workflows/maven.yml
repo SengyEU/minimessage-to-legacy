@@ -30,9 +30,9 @@ jobs:
     - uses: "softprops/action-gh-release@v1"
       with:
           generate_release_notes: true
-          tag_name: "gd-oldpvp"
+          tag_name: "mmtolegacy-build"
           prerelease: false
-          name: "GD-OldPvp Build"
+          name: "MMtolegacy Build"
           files: |
             .target/MMtolegacy.jar
    
